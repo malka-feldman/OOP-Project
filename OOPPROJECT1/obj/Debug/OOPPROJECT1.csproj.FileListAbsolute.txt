@@ -1,0 +1,8 @@
+C:\Users\batya\source\repos\OOPPROJECT1\OOPPROJECT1\bin\Debug\OOPPROJECT1.exe.config
+C:\Users\batya\source\repos\OOPPROJECT1\OOPPROJECT1\bin\Debug\OOPPROJECT1.exe
+C:\Users\batya\source\repos\OOPPROJECT1\OOPPROJECT1\bin\Debug\OOPPROJECT1.pdb
+C:\Users\batya\source\repos\OOPPROJECT1\OOPPROJECT1\obj\Debug\OOPPROJECT1.csproj.AssemblyReference.cache
+C:\Users\batya\source\repos\OOPPROJECT1\OOPPROJECT1\obj\Debug\OOPPROJECT1.csproj.SuggestedBindingRedirects.cache
+C:\Users\batya\source\repos\OOPPROJECT1\OOPPROJECT1\obj\Debug\OOPPROJECT1.csproj.CoreCompileInputs.cache
+C:\Users\batya\source\repos\OOPPROJECT1\OOPPROJECT1\obj\Debug\OOPPROJECT1.exe
+C:\Users\batya\source\repos\OOPPROJECT1\OOPPROJECT1\obj\Debug\OOPPROJECT1.pdb

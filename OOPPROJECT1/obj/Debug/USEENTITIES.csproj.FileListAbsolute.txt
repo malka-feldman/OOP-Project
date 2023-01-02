@@ -1,0 +1,12 @@
+C:\Users\batya\source\repos\OOPPROJECT1\OOPPROJECT1\bin\Debug\OOPPROJECT1.pdb
+C:\Users\batya\source\repos\OOPPROJECT1\OOPPROJECT1\bin\Debug\Entities.pdb
+C:\Users\batya\source\repos\OOPPROJECT1\OOPPROJECT1\obj\Debug\USEENTITIES.csproj.AssemblyReference.cache
+C:\Users\batya\source\repos\OOPPROJECT1\OOPPROJECT1\obj\Debug\USEENTITIES.csproj.CoreCompileInputs.cache
+C:\Users\batya\source\repos\OOPPROJECT1\OOPPROJECT1\obj\Debug\USEENTITIES.csproj.CopyComplete
+C:\Users\batya\source\repos\OOPPROJECT1\OOPPROJECT1\obj\Debug\OOPPROJECT1.pdb
+C:\Users\batya\source\repos\OOPPROJECT1\OOPPROJECT1\bin\Debug\OOPPROJECT1.exe.config
+C:\Users\batya\source\repos\OOPPROJECT1\OOPPROJECT1\bin\Debug\OOPPROJECT1.exe
+C:\Users\batya\source\repos\OOPPROJECT1\OOPPROJECT1\bin\Debug\Entities.exe
+C:\Users\batya\source\repos\OOPPROJECT1\OOPPROJECT1\bin\Debug\Entities.exe.config
+C:\Users\batya\source\repos\OOPPROJECT1\OOPPROJECT1\obj\Debug\USEENTITIES.csproj.SuggestedBindingRedirects.cache
+C:\Users\batya\source\repos\OOPPROJECT1\OOPPROJECT1\obj\Debug\OOPPROJECT1.exe
