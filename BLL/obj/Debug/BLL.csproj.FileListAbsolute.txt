@@ -1,0 +1,15 @@
+C:\Users\batya\source\repos\OOPPROJECT1\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\batya\source\repos\OOPPROJECT1\BLL\obj\Debug\BLL.csproj.SuggestedBindingRedirects.cache
+C:\Users\batya\source\repos\OOPPROJECT1\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\batya\source\repos\OOPPROJECT1\BLL\bin\Debug\BLL.exe.config
+C:\Users\batya\source\repos\OOPPROJECT1\BLL\bin\Debug\BLL.exe
+C:\Users\batya\source\repos\OOPPROJECT1\BLL\bin\Debug\BLL.pdb
+C:\Users\batya\source\repos\OOPPROJECT1\BLL\bin\Debug\DAL.exe
+C:\Users\batya\source\repos\OOPPROJECT1\BLL\bin\Debug\Entities.exe
+C:\Users\batya\source\repos\OOPPROJECT1\BLL\bin\Debug\DAL.pdb
+C:\Users\batya\source\repos\OOPPROJECT1\BLL\bin\Debug\DAL.exe.config
+C:\Users\batya\source\repos\OOPPROJECT1\BLL\bin\Debug\Entities.pdb
+C:\Users\batya\source\repos\OOPPROJECT1\BLL\bin\Debug\Entities.exe.config
+C:\Users\batya\source\repos\OOPPROJECT1\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\batya\source\repos\OOPPROJECT1\BLL\obj\Debug\BLL.exe
+C:\Users\batya\source\repos\OOPPROJECT1\BLL\obj\Debug\BLL.pdb
