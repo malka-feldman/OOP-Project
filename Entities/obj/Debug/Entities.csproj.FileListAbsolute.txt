@@ -1,0 +1,8 @@
+C:\Users\batya\source\repos\OOPPROJECT1\Entities\bin\Debug\Entities.pdb
+C:\Users\batya\source\repos\OOPPROJECT1\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+C:\Users\batya\source\repos\OOPPROJECT1\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\batya\source\repos\OOPPROJECT1\Entities\obj\Debug\Entities.pdb
+C:\Users\batya\source\repos\OOPPROJECT1\Entities\bin\Debug\Entities.exe.config
+C:\Users\batya\source\repos\OOPPROJECT1\Entities\bin\Debug\Entities.exe
+C:\Users\batya\source\repos\OOPPROJECT1\Entities\obj\Debug\Entities.csproj.SuggestedBindingRedirects.cache
+C:\Users\batya\source\repos\OOPPROJECT1\Entities\obj\Debug\Entities.exe
