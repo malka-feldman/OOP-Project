@@ -1,0 +1,12 @@
+﻿1
+speaker
+1.1
+2
+mousepad
+2.2
+3
+charger
+3.3
+4
+camera
+4.4

@@ -1,0 +1,9 @@
+﻿1
+speaker
+1.1
+2
+mouse
+2.2
+3
+charger
+3.3

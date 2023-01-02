@@ -1,0 +1,12 @@
+C:\Users\batya\source\repos\OOPPROJECT1\DAL\bin\Debug\DAL.pdb
+C:\Users\batya\source\repos\OOPPROJECT1\DAL\bin\Debug\Entities.pdb
+C:\Users\batya\source\repos\OOPPROJECT1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\batya\source\repos\OOPPROJECT1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\batya\source\repos\OOPPROJECT1\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\batya\source\repos\OOPPROJECT1\DAL\obj\Debug\DAL.pdb
+C:\Users\batya\source\repos\OOPPROJECT1\DAL\bin\Debug\DAL.exe.config
+C:\Users\batya\source\repos\OOPPROJECT1\DAL\bin\Debug\DAL.exe
+C:\Users\batya\source\repos\OOPPROJECT1\DAL\bin\Debug\Entities.exe
+C:\Users\batya\source\repos\OOPPROJECT1\DAL\bin\Debug\Entities.exe.config
+C:\Users\batya\source\repos\OOPPROJECT1\DAL\obj\Debug\DAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\batya\source\repos\OOPPROJECT1\DAL\obj\Debug\DAL.exe
